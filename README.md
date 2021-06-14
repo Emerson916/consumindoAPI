@@ -16,3 +16,4 @@ A API utilizada é para o consumo de CEPs.
 <a href="https://github.com/fernandoleonid">Fernando Leonid</a>, SENAI Jandira, 2021.
 
 ## Visite o projeto, ao link a baixo:
+ https://emerson916.github.io/consumindoAPI/index.html.
